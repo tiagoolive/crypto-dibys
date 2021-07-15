@@ -1,0 +1,34 @@
+.coin_page{
+    margin-top: 50px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.coin_cointainer{
+    padding-top: 20px;
+    display: flex;
+    border: #665823 solid 2px;
+    border-radius: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 60px 40px 60px;
+
+}
+
+.coin_name{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.coin_price{
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+.coin_symbol{
+    margin-bottom: 1rem;
+}
